@@ -71,6 +71,7 @@ Evidence Layer
         |
         v
 Screenshots And Report Output
+` 
 
 ---
 
@@ -79,4 +80,5 @@ Screenshots And Report Output
 The screenshot below shows the response analyzer reviewing simulated cloud service logs, identifying affected services, and generating optimization recommendations.
 
 ![Optimization Report](screenshots/optimization-report.png)
+
 
