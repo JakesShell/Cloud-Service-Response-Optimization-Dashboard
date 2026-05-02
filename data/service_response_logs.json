@@ -1,0 +1,23 @@
+﻿[
+  {
+    "service": "auth-service",
+    "endpoint": "/login",
+    "response_time_ms": 820,
+    "status_code": 200,
+    "request_count": 1200
+  },
+  {
+    "service": "payment-service",
+    "endpoint": "/checkout",
+    "response_time_ms": 1450,
+    "status_code": 500,
+    "request_count": 340
+  },
+  {
+    "service": "profile-service",
+    "endpoint": "/user/profile",
+    "response_time_ms": 390,
+    "status_code": 200,
+    "request_count": 980
+  }
+]
